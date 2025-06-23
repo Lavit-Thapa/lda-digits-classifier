@@ -1,6 +1,6 @@
 # 🔢 Linear Discriminant Analysis on Digits Dataset
 
-Welcome to a high-impact, high-energy exploration of **Linear Discriminant Analysis (LDA)** — a classic supervised learning technique that’s all about **maximizing class separation**. In this notebook, we take on the challenge of classifying handwritten digits using dimensionality reduction that’s built to **boost interpretability and performance**. 🚀📈
+Welcome to a high-impact, high-energy exploration of **Linear Discriminant Analysis (LDA)** - a classic supervised learning technique that’s all about **maximizing class separation**. In this notebook, we take on the challenge of classifying handwritten digits using dimensionality reduction that’s built to **boost interpretability and performance**. 🚀📈
 
 ---
 
@@ -21,7 +21,7 @@ This hands-on project applies **LDA (Linear Discriminant Analysis)** to the popu
 
 ## 🧠 Why LDA?
 
-While unsupervised techniques like PCA focus on variance, **LDA focuses on class separation** — making it ideal when labels are available and accuracy matters. It’s like giving your model laser-focused vision instead of blurry glasses.
+While unsupervised techniques like PCA focus on variance, **LDA focuses on class separation** - making it ideal when labels are available and accuracy matters. It’s like giving your model laser-focused vision instead of blurry glasses.
 
 ---
 
